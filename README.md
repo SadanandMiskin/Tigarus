@@ -4,7 +4,7 @@
 
 Steps:
 
-1) Download this file
+1) Download the VBScript file
 2) Open the file
 3) Click on the options
 4) BOOM! pc is shutdown and wallpaper change.
