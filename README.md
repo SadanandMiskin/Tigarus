@@ -1,6 +1,6 @@
 # ShutDown Ransomeware
 
--A ransomeware which shutdowns the pc in 15secs and changes the wallpaper as blackscreen ,with text like (your pc is hacked)(prank)
+A ransomeware which shutdowns the pc in 15secs and changes the wallpaper as blackscreen ,with text like (your pc is hacked)(prank)
 
 Steps:
 
