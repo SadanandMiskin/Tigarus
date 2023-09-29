@@ -1,4 +1,4 @@
-# ShutDown Ransomeware
+# ShutDown Ransomware
 
 A ransomeware which shutdowns the pc in 15secs and changes the wallpaper as blackscreen ,with text popups like (your pc is hacked)
 
